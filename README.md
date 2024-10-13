@@ -52,6 +52,7 @@ The models used in this project are:
 - XGBoost
 - Neural Networks
 
+#### **`MODEL PERFORMANCES`**
 #### ROC Curve for Neural Networks
 ![Neural Networks](images/improved_neural_networks_curve.png)
 
@@ -68,12 +69,8 @@ The models used in this project are:
 
 5. **Logistic Regression (SMOTE)** performed poorly (0.3066), indicating that SMOTE did not effectively resolve class imbalance.
 
-**Final Recommendation**
-
-Based on the analysis, the **Neural Network** is recommended as the best model for predicting traffic crash causes, with **XGBoost** as a strong alternative. Future steps should include hyperparameter tuning to enhance model performance and mitigate overfitting, as well as employing model interpretability techniques to better understand decision-making processes.
 
 
-### **`MODEL PERFORMANCE`**
 #### Model Accuracy Comparisons
 ![Model Accuracy Comparison](images/Model_Accuracy_Comparison.png)
 
