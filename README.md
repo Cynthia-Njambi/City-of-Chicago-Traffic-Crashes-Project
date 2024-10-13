@@ -52,7 +52,7 @@ The models used in this project are:
 - XGBoost
 - Neural Networks
 
-#### **`MODEL PERFORMANCES`**
+## **`MODEL VALIDATION`**
 #### ROC Curve for Neural Networks
 ![Neural Networks](images/improved_neural_networks_curve.png)
 
